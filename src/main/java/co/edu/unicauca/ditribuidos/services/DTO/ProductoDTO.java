@@ -24,7 +24,7 @@ public class ProductoDTO {
     
 
     public ProductoDTO() {
-        this.estaAbierta=true;
+        this.estaAbierta=false;
     }
 
     

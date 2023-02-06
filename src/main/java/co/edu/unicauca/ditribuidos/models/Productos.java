@@ -19,7 +19,7 @@ public class Productos {
         this.valorInicial = valorInicial;
 
         this.valorActual=valorInicial;
-        this.estaAbierta=true;
+        this.estaAbierta=false;
     }
     public Integer getId() {
         return id;
